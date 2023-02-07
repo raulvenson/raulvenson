@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Raul Barbosa Venson.
 
 
+- Para mais informações dá uma conferida no meu [Linkedin](https://www.linkedin.com/in/raul-venson-991691149/)
 - 🔭 Experiência com Varejo (Backend JAVA)
 - 🔭 Atualmente trabalho fullstack com WMS portuário (JAVA / ANGULAR)
 - 🌱 Estudando Engenharia de Software
