@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Raul Barbosa Venson.
 
 
-- 🔭 Atualmente trabalho com backend
+- 🔭 Experiência com Varejo (Backend JAVA)
+- 🔭 Atualmente trabalho fullstack com WMS portuário (JAVA / ANGULAR)
 - 🌱 Estudando Engenharia de Software
 
 <div align="center">
