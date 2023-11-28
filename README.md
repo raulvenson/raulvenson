@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on [Inteligate](http://cnpj.info/Inteligate-Tecnologias-de-Acesso-Ltda-Inteligate) with Spring and Angular
-- 🔨 Starting our own comapny with partner [Rafael](https://github.com/rafaelrosar), take a look at [Fallconn](https://fallconn.com.br/)
+- 🔨 Starting our own comapny with a partner, take a look at [Fallconn](https://fallconn.com.br/)
 - 🌱 I’m currently improving my **frontend** skills
 - 🥇 I’m postgraduate in [Software Engineering at PUC Minas](https://www.pucminas.br/unidade/praca-da-liberdade/ensino/graduacao/Paginas/Engenharia-de-Software.aspx)
 - 📫 How to reach me **raulvenson@gmail.com**
