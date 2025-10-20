@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raulvenson" alt="raulvenson" /></a> </p>
 
 
-- 🔭 I’m currently working on [Inteligate](http://cnpj.info/Inteligate-Tecnologias-de-Acesso-Ltda-Inteligate) with Spring and Angular
+- 🔭 I’m currently working on [Inteligate](https://www.inteligate.com.br/) with Spring and Angular
 - 🥇 I’m postgraduate in [Software Engineering at PUC Minas](https://www.pucminas.br/unidade/praca-da-liberdade/ensino/graduacao/Paginas/Engenharia-de-Software.aspx)
 - 📫 How to reach me **raulvenson@gmail.com**
 
