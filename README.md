@@ -7,8 +7,6 @@
 
 
 - 🔭 I’m currently working on [Inteligate](http://cnpj.info/Inteligate-Tecnologias-de-Acesso-Ltda-Inteligate) with Spring and Angular
-- 🔨 Starting our own company with a partner
-- 🌱 I’m currently improving my **frontend** skills
 - 🥇 I’m postgraduate in [Software Engineering at PUC Minas](https://www.pucminas.br/unidade/praca-da-liberdade/ensino/graduacao/Paginas/Engenharia-de-Software.aspx)
 - 📫 How to reach me **raulvenson@gmail.com**
 
